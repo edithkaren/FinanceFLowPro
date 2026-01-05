@@ -1,0 +1,5 @@
+{
+  "name": "FinanceFlow Pro",
+  "description": "A sophisticated personal finance dashboard featuring full CRUD operations for expenses, real-time data visualization with Recharts, and AI-powered financial insights driven by Google Gemini.",
+  "requestFramePermissions": []
+}
